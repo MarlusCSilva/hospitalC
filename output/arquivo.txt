@@ -1,0 +1,129 @@
+Nome: M20013
+
+Idade: 18
+Nome Responsável: NAO
+Cor/Raca: Preto(a)
+Telefone: 6199890222
+Peso: 67
+Altura: 1.91
+Data de Nascimento: 27/02/2005
+Local Nascimento: bsb
+CPF: 23456789034
+SUS: 234567890234567
+Correio Eletronico: marlin123
+CEP: 12345678
+Rua: juara
+Bairro: formosa
+Cidade: formosinha
+Estado: goias
+Localizacao Primaria do Tumor: anus
+Diagnostico Anterior: Sem diagnóstico e sem tratamento
+Data tratamento Anterior: NAO
+Tratamento Anterior Realizado: NAO
+Localizacao de Metastase a Distancia: cabe��a
+
+Estadiamento do Tumor: NAO
+Tipo Histologico do Tumor: perna
+Hora da Consulta: NAOData da Consulta: NAO
+Nome: Jessica
+Idade: 20
+Nome Responsável: NAO
+Cor/Raca: Branco(a)
+Telefone: 234243243
+Peso: 78
+Altura: 1.70
+Data de Nascimento: 23/02/2003
+Local Nascimento: bsb
+CPF: 12345678956
+SUS: 234567890876543
+Correio Eletronico: jesicaaa
+CEP: 23456987
+Rua: jacinto
+Bairro: laranjeiras
+Cidade: formosa
+Estado: goias
+Localizacao Primaria do Tumor: anus
+Diagnostico Anterior: Sem informacao
+Data tratamento Anterior: NAO
+Tratamento Anterior Realizado: NAO
+Localizacao de Metastase a Distancia: cane�a
+Estadiamento do Tumor: perna
+
+Tipo Histologico do Tumor: To
+Hora da Consulta: NAOData da Consulta: NAO
+Nome: cabecinha
+Idade: 26
+Nome Responsável: NAO
+Cor/Raca: Branco(a)
+Telefone: 123123123
+Peso: 120
+Altura: 1.60
+Data de Nascimento: 12/02/1999
+Local Nascimento: bsb
+CPF: 23456789076
+SUS: 345678908765433
+Correio Eletronico: cabe�a
+CEP: 12312323
+Rua: jacinto
+Bairro: formosa
+Cidade: formosinha
+Estado: goias
+Localizacao Primaria do Tumor: anus
+Diagnostico Anterior: Sem diagn%cstico e sem tratamento
+Data tratamento Anterior: NAO
+Tratamento Anterior Realizado: NAO
+Localizacao de Metastase a Distancia: NAOEstadiamento do Tumor: 5
+Tipo Histologico do Tumor: TO
+Hora da Consulta: NAO
+Data da Consulta: NAO
+Nome: MARQUITOS
+Idade: 20
+Nome Responsável: NAO
+Cor/Raca: Branco(a)
+Telefone: 234234234324
+Peso: 78
+Altura: 1.89
+Data de Nascimento: 23/01/2003
+Local Nascimento: FORMOSA
+CPF: 234234234234
+SUS: 234234234234
+Correio Eletronico: PETOBRAS
+CEP: 234456567
+Rua: JACINTOOO
+Bairro: LARANJEIRINHAS
+Cidade: FORMOSA
+Estado: GOIAS
+Localizacao Primaria do Tumor: CU
+Diagnostico Anterior: Sem diagn%cstico e sem tratamento
+Data tratamento Anterior: NAO
+Tratamento Anterior Realizado: NAO
+Localizacao de Metastase a Distancia: NAOEstadiamento do Tumor: NAOTipo Histologico do Tumor: JK
+Hora da Consulta: NAO
+Data da Consulta: NAO
+Nome: CAVALAO
+Idade: 36
+Nome Responsável: NAO
+Cor/Raca: Preto(a)
+Telefone: 234234234
+Peso: 76
+Altura: 1.78
+Data de Nascimento: 25/06/1899
+Local Nascimento: BSB
+CPF: 234234
+SUS: 234324234234
+Correio Eletronico: CAVALIAO
+CEP: 23423423
+Rua: JACINTO
+Bairro: KLKASL
+Cidade: FORMOSAAA
+Estado: FOIAS
+Localizacao Primaria do Tumor: UCS
+Diagnostico Anterior: Sem diagn%cstico e sem tratamento
+Data tratamento Anterior: NAO
+Tratamento Anterior Realizado: NAO
+Localizacao de Metastase a Distancia: NAO
+Estadiamento do Tumor: AS
+
+Tipo Histologico do Tumor: TO
+Hora da Consulta: NAO
+Data da Consulta: NAO
